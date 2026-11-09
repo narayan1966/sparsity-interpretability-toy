@@ -106,7 +106,7 @@ n = 128 features, each active with probability p and uniform on [-1, 1] when act
 
 ## Citation
 
-If you use this code, please cite the paper (reference to be added when available).
+If you use this code, please cite the paper above.
 
 ## License
 
